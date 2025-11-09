@@ -15,7 +15,7 @@ Dieses Projekt implementiert einen DNS-Tunnel-Simulation, bei dem ein Server üb
 |--------------------------|------------------------------------------------------------------------------|
 | `dns-tunnel-server.py`   | Python-Skript für den DNS-Server. Verteilt Befehle und empfängt Client-Daten |
 | `dns-tunnel-client.py`   | Python-Skript für den Client. Fragt Befehle ab und sendet Ergebnisse zurück  |
-| `config.yaml`            | Konfigurationsdatei mit IP-Adresse und Port für Server und Client            |
+| `config.yaml`            | Konfigurationsdatei mit IP-Adresse und Port für Server          |
 | `data/beispiel.txt`      | Beispiel-Datei, die vom Client gelesen und zurückgesendet werden kann        |
 | `anleitung-und-beschreibung.md` | Dokumentation und Anleitung zur Nutzung des Projekts                        |
 
